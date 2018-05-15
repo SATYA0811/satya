@@ -1,2 +1,0 @@
-# satya
-Created with CodeSandbox
